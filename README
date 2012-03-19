@@ -1,0 +1,14 @@
+This is my first work and is still in motion. Dated - 19/3/2012
+
+fest.py
+-------
+It with the click of a button goes into a GMAIL account and searches the mail for registration details like NAME, COLLEGE NAME
+etc and saves them into a text file.
+
+forfest.py
+----------
+requirs xlwt module.
+It goes into the text file and brings back all the information from it and saves into a excel file. It has bugs though. I 
+am trying to get rid of them. Please do help me.
+
+
